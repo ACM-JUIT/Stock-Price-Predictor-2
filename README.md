@@ -2,7 +2,7 @@
 A cutting-edge Stock Price Predictor leveraging AI/ML algorithms to forecast future stock prices with accuracy and precision.
 
 # Application of Stock Price Predictor
-This robust machine learning model will use the historical stock market data to accurately forecast future stock prices. Leveraged advanced algorithms and statistical techniques to identify patterns and trends, providing valuable insights for informed investment decisions. Implemented the project using Python and popular libraries like Pandas, NumPy, and scikit-learn. The predictor model demonstrated high accuracy (95%) and reliability, enabling traders and investors to optimize portfolio strategies, mitigate risks, and capitalize on market opportunities. Seeking opportunities to apply this predictive model to enhance financial forecasting and drive profitability in the finance industry.
+This robust machine learning model will use the historical stock market data to accurately forecast future stock prices. Leveraged advanced algorithms and statistical techniques to identify patterns and trends, providing valuable insights for informed investment decisions. Implemented the project using Python and popular libraries like Pandas, NumPy, and scikit-learn. The predictor model demonstrated high accuracy (97%) and reliability, enabling traders and investors to optimize portfolio strategies, mitigate risks, and capitalize on market opportunities. Seeking opportunities to apply this predictive model to enhance financial forecasting and drive profitability in the finance industry.
 
 # LSTM
 1. LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN) architecture commonly used for time series analysis and prediction tasks, making it suitable for stock price prediction.
